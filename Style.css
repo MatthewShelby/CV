@@ -1,0 +1,87 @@
+﻿body {
+    background-color: #b2d0f7;/* #dae6f5; #5c9efa;   ;   */
+    padding: 50px;
+}
+
+.none-margin {
+    margin: 0;
+}
+
+.box1 {
+    border: 3px #ccd6e3 solid
+}
+
+.txt-back {
+    background-color: #e9eef5;
+}
+
+.profile-img {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.center {
+    max-height: 200px;
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.name-title {
+    font-size: 140% !important;
+    padding: 10px;
+    font-weight:600;
+}
+
+.loc-img {
+    height: 25px;
+    max-width:25px;
+    margin: 4px;
+}
+
+.p-thin {
+    margin-bottom: 3px !important;
+    text-align:left;
+    font-size:80%;
+}
+#subSkill{
+    padding-left: 30px;
+}
+
+
+h6 {
+    font-size:75%;
+}
+
+h4 {
+    color: #1c539c;
+}
+
+.skillsTitle {
+    font-size: 90%;
+    font-weight:700;
+    padding-left:20px;
+}
+
+#email-sign{
+    height:20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
