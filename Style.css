@@ -8,8 +8,7 @@
 }
 
 .box1 {
-    /*border: 3px #ccd6e3 solid;*/
-    border: 3px red solid
+    border: 3px #ccd6e3 solid;
 }
 
 .txt-back {
@@ -72,11 +71,7 @@ h4 {
 }
 
 .top-line {
-    padding-top: 10px;
-    border-top: 2px red solid !important;
+    padding-top: 19px;
+    border-top: 2px #ccd6e3 solid !important;
 }
 
-#TL {
-    padding-top: 10px;
-    border-top: 2px red solid !important;
-}
