@@ -3,6 +3,17 @@
     padding: 50px;
 }
 
+.bldLnk{
+    font-weight: 700 !important;
+    font-size:larger;
+}
+
+.title2{
+    padding-left: 16px;
+    padding-top: 8px;
+
+}
+
 .none-margin {
     margin: 0;
 }
